@@ -318,3 +318,20 @@ select{
 	color:#FFF;
 	line-height:50px;
 }
+.fix{
+	position:fixed;
+	top:190px;
+	right:0;
+	width:80px;
+	height:600px;
+	background-color:#030B0A;
+}
+.fix>div{
+	height:115px;
+	width:80px;
+	border-top:1px solid #60625F;
+}
+.fix img{
+	margin-top:35px;
+	margin-left:23px;
+}
